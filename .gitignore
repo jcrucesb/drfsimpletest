@@ -1,0 +1,6 @@
+# Seleccionamos todos los qrchivos que NO queremos que se suban a GIT.
+db.sqlite3
+# Dejamos fuera el entorno virtual.
+venv
+# Dejamos fuera porque es solo para funcionamiento interno de python. 
+__pycache__
